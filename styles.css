@@ -1,0 +1,46 @@
+body{
+    background-color: grey;
+    text-align: center;
+
+}
+ 
+#title{
+    text-align: center;
+    margin: auto;
+} 
+
+ #survey-form{
+     display: block; 
+     margin: auto;
+     width: 60%;
+    text-align: center;
+    background-color: aliceblue;
+   }
+
+   #name,#email,#number,#dropdown{
+    margin-top: 5px;
+   }
+   /* #number-label{
+    margin-left: -50px;
+   } */
+   #dropdown{
+    margin-left: -150px;
+   }
+   p{
+    margin-left: -45px;
+   }
+   #assest1{
+    margin-left: -62px;
+   }
+   #assest2{
+    margin-left: -77px;
+   }
+
+   #assest3{
+    margin-left: -70px;
+   }
+   #submit{
+    margin-bottom: 5px;
+    color: white;
+    background-color: blue;
+   }
